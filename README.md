@@ -4,6 +4,7 @@ The second week studied Else after For, Break, Continue, While, Conditional Expr
 ### Else after For
 The else function after for is a search-first loop to give the program a way out when a search is not found.
 Example :
+
 <img width="326" alt="image" src="https://github.com/galihaulia9/Python-Part-2/assets/125258524/5b103195-d938-4c1a-a933-2a6949de4c13">
 
 ### Functions Break
@@ -30,6 +31,7 @@ Example :
 ### Else after While
 In the While statement, the Else statement block will always be executed when the condition in While becomes false.
 Example :
+
 <img width="245" alt="image" src="https://github.com/galihaulia9/Python-Part-2/assets/125258524/d5a263e4-6897-4364-a57a-20d66297948a">
 
 - Making Functions While & Conditional (If, Elif, Else)
