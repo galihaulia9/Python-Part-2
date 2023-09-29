@@ -1,5 +1,5 @@
 # Python-Part-2
-The second week studied Else after For, Break, Continue, While, Conditional Expression after While, List Comprehension, Functions Upper(), Underscore, Function and return.
+The second week studied Else after For, Break, Continue, While, Conditional Expression after While, List Comprehension, Functions Upper(), Underscore, Function and Return.
 
 ### Else after For
 The else function after for is a search-first loop to give the program a way out when a search is not found.
