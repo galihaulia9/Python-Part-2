@@ -5,7 +5,7 @@ The second week studied Else after For, Break, Continue, While, Conditional Expr
 The else function after for is a search-first loop to give the program a way out when a search is not found.
 Example :
 
-<img width="326" alt="image" src="https://github.com/galihaulia9/Python-Part-2/assets/125258524/5b103195-d938-4c1a-a933-2a6949de4c13">
+<img width="309" alt="image" src="https://github.com/galihaulia9/Python-Part-2/assets/125258524/69971e8e-c46f-4958-8fe3-584b78d89e59">
 
 ### Functions Break
 - The Break statement stops the loop then exits, followed by executing the statement after the looping block.
