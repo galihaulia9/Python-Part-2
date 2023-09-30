@@ -56,7 +56,7 @@ Used instead of "dummy" variables in both loops and assignment statements where 
 
 <img width="297" alt="image" src="https://github.com/galihaulia9/Python-Part-2/assets/125258524/d892df92-8671-4dae-a3a0-9d56562e7879">
 
-### Function (Fungsi)
+### Function
 - In math, a function is a process that relates an input to an output.
 - In Python, in addition to these relations, functions are also a way to organize code-with the ultimate goal of code (reusability).
 - Conversely, functions only have one specific use but can be reused.
